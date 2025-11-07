@@ -646,7 +646,7 @@ Questions about the methodology, findings, or code? Open an issue or reach out.
 
 **Analysis completed November 2025**
 
-*All code written with focus on production-ready, clearly documented work. No AI assistance markers - just clean, professional analysis.*
+*All code written with focus on production-ready, clearly documented work.*
 
 </div>
 
